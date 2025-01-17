@@ -15,4 +15,5 @@ This workspace contains several Python scripts located in the `executable_files`
 ### `executable_files/run_q1.py`
 
 ```sh
-python executable_files/run_q1.py
+cd executable_files
+python run_q1.py
