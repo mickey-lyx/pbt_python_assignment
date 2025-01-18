@@ -7,7 +7,10 @@ This workspace contains several Python scripts located in the `executable_files`
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.11.8
+- It is recommended to install this Python version with conda. To create a new Conda environment with Python 3.11.8:  
+  ```sh
+      conda create --n py3118_env python=3.11.8
 - Ensure that the `__encoded_files__` directory contains the encoded `.pyc` files: `q1.encoded.pyc`, `q2.encoded.pyc`, `q3.encoded.pyc`, `q4.encoded.pyc`, and `q5.encoded.pyc`.
 
 ## Running the Scripts
