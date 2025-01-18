@@ -1,7 +1,7 @@
 import importlib.util
 
 # Path to the .pyc file
-pyc_path = "../__encoded_files__/q3.encoded.pyc"
+pyc_path = "./__encoded_files__/q3.encoded.pyc"
 
 
 # Load the .pyc file
